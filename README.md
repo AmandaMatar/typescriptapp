@@ -1,4 +1,22 @@
-# typescriptapp
+# TypeScriptApp
+
+**Este projeto foi desenvolvido a partir do The Vue 3 Bootcamp - The Complite Developer Guide, como proposta de quarto projeto usando o vue 3.**
+
+***Para consulta e estudo refente ao módulo Vue With TypeScript***
+
+## O que vimos?
+- An Introduction to TypeScript
+- An Optional TypeScript Lesson
+- Building the HTML App
+- Types With State
+- Types With Functions
+- Types With Props
+- Types With Computed
+- Reusing Our Types Throughout Multiple Components
+
+### Veja o template a seguir:
+
+[!template](https://drive.google.com/uc?id=1Rr1HFFWxrY8lM0bBNzGwonxMbb1hZScg)
 
 This template should help get you started developing with Vue 3 in Vite.
 
