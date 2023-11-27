@@ -1,6 +1,6 @@
 # TypeScriptApp
 
-**Este projeto foi desenvolvido a partir do The Vue 3 Bootcamp - The Complite Developer Guide, como proposta de quarto projeto usando o vue 3.**
+**Este projeto foi desenvolvido a partir do The Vue 3 Bootcamp - The Complite Developer Guide, como proposta de projeto usando o vue 3.**
 
 ***Para consulta e estudo refente ao módulo Vue With TypeScript***
 
