@@ -16,7 +16,7 @@
 
 ### Veja o template a seguir:
 
-[!template](https://drive.google.com/uc?id=1Rr1HFFWxrY8lM0bBNzGwonxMbb1hZScg)
+[template](https://drive.google.com/uc?id=1Rr1HFFWxrY8lM0bBNzGwonxMbb1hZScg)
 
 This template should help get you started developing with Vue 3 in Vite.
 
